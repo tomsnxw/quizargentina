@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbf1fb73.css",
+    "main.js": "/static/js/main.b1578413.js",
+    "static/js/787.8ba3e04c.chunk.js": "/static/js/787.8ba3e04c.chunk.js",
+    "static/media/BryantPro-Bold.otf": "/static/media/BryantPro-Bold.e77d8660612c5472153c.otf",
+    "static/media/MuseoSans.otf": "/static/media/MuseoSans.34274fbfb2f270b8d53b.otf",
+    "index.html": "/index.html",
+    "main.dbf1fb73.css.map": "/static/css/main.dbf1fb73.css.map",
+    "main.b1578413.js.map": "/static/js/main.b1578413.js.map",
+    "787.8ba3e04c.chunk.js.map": "/static/js/787.8ba3e04c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf1fb73.css",
+    "static/js/main.b1578413.js"
+  ]
+}
